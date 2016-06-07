@@ -70,7 +70,7 @@ def enron_data_set():
 
 
 
-    return npeople,nfeatures,npoi, total_poi, prentice, wc_to_poi, skilling_options,nemailadd,nsalary,n_missing_totalpayments,n_nan_poi_totalpayments
+    return npeople, nfeatures, npoi, total_poi, prentice, wc_to_poi, skilling_options, nemailadd, nsalary, n_missing_totalpayments, n_nan_poi_totalpayments
 
 print enron_data_set()
 
